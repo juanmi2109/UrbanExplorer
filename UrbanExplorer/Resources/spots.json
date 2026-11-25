@@ -1,0 +1,335 @@
+[
+  {
+    "id": "6EAB15A2-159E-456F-BCAB-A36204E81319",
+    "title": "Rincón de Pepe",
+    "description": "Restaurante de la calle Apóstoles con cocina murciana tradicional puesta al día. Es uno de los nombres clásicos de la gastronomía de la ciudad y una buena parada para probar la huerta en el plato.",
+    "category": "Restaurante",
+    "rating": 4.6,
+    "visitCount": 2310,
+    "isFavorite": false,
+    "createdAt": "2024-09-12T11:00:00Z",
+    "tags": [
+      "Cocina murciana",
+      "Tradicional",
+      "Centro"
+    ],
+    "imageURL": [
+      "https://static.wixstatic.com/media/bdb66b_65abb258f3ce43d0b76c36108129c59a%7Emv2.jpg/v1/fit/w_1200,h_640,al_c/bdb66b_65abb258f3ce43d0b76c36108129c59a%7Emv2.jpg"
+    ],
+    "mainImageURL": "https://static.wixstatic.com/media/bdb66b_65abb258f3ce43d0b76c36108129c59a%7Emv2.jpg/v1/fit/w_330,h_330,al_c/bdb66b_65abb258f3ce43d0b76c36108129c59a%7Emv2.jpg",
+    "webURL": "https://rincondepepe.com",
+    "latitude": 37.98394,
+    "longitude": -1.12674,
+    "reviews": [
+      {
+        "autor": "Marta",
+        "date": "2024-10-02T14:30:00Z",
+        "comment": "Producto de la huerta muy bien tratado y un servicio atento.",
+        "points": 5
+      },
+      {
+        "autor": "Pablo",
+        "date": "2024-11-18T21:15:00Z",
+        "comment": "Buen ambiente para una comida larga. Conviene reservar.",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": "3D191921-5E94-4A45-806F-1AE5C778D6F3",
+    "title": "Mercado de Verónicas",
+    "description": "Mercado de abastos construido entre 1914 y 1917. En la planta baja hay panaderías y pescado fresco, y en la superior, frutas y verduras de la huerta. Los bares de los alrededores sirven las mejores tapas con su producto.",
+    "category": "Mercado",
+    "rating": 4.5,
+    "visitCount": 3120,
+    "isFavorite": false,
+    "createdAt": "2024-09-14T09:45:00Z",
+    "tags": [
+      "Producto fresco",
+      "Huerta",
+      "Modernismo"
+    ],
+    "imageURL": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mercado_de_Ver%C3%B3nicas.JPG/960px-Mercado_de_Ver%C3%B3nicas.JPG"
+    ],
+    "mainImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mercado_de_Ver%C3%B3nicas.JPG/330px-Mercado_de_Ver%C3%B3nicas.JPG",
+    "webURL": "https://www.mercadodeveronicas.es",
+    "latitude": 37.9838,
+    "longitude": -1.13426,
+    "reviews": [
+      {
+        "autor": "Lucía",
+        "date": "2024-10-05T10:20:00Z",
+        "comment": "Fruta y verdura de temporada a muy buen precio. Mejor ir por la mañana.",
+        "points": 5
+      }
+    ],
+    "dishes": [
+      "Pescado fresco",
+      "Fruta",
+      "Verdura",
+      "Pan"
+    ]
+  },
+  {
+    "id": "558A0EB5-9655-4BBA-8323-9C956FB9D51F",
+    "title": "Pepico del Tío Ginés",
+    "description": "Taberna tradicional de la calle Ruipérez con embutidos de la zona y tapas de siempre. Es famosa por sus mini bocadillitos y por el torpedo: una tosta de sobrasada casera con huevo.",
+    "category": "Tapas",
+    "rating": 4.4,
+    "visitCount": 1875,
+    "isFavorite": false,
+    "createdAt": "2024-09-20T20:10:00Z",
+    "tags": [
+      "Taberna",
+      "Embutidos",
+      "Bocadillitos"
+    ],
+    "imageURL": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bar_tapas_in_Murcia_-_6305308713.jpg/960px-Bar_tapas_in_Murcia_-_6305308713.jpg"
+    ],
+    "mainImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bar_tapas_in_Murcia_-_6305308713.jpg/330px-Bar_tapas_in_Murcia_-_6305308713.jpg",
+    "webURL": "http://pepicodeltiogines.es",
+    "latitude": 37.98497,
+    "longitude": -1.13338,
+    "reviews": [
+      {
+        "autor": "Javier",
+        "date": "2024-10-11T21:40:00Z",
+        "comment": "El torpedo es imprescindible. Local pequeño y con mucho ambiente.",
+        "points": 5
+      }
+    ],
+    "dishes": [
+      "Torpedo (tosta de sobrasada casera con huevo)",
+      "Mini bocadillitos",
+      "Chiquillo",
+      "Morcón de matanza",
+      "Blancos",
+      "Butifarra",
+      "Tocino curado"
+    ]
+  },
+  {
+    "id": "DF2B7D83-AE17-4B52-8F56-2D770EDBD3A7",
+    "title": "La Tapeoteca",
+    "description": "Cocina creativa para compartir en la plaza de San Pedro, junto a la plaza de las Flores. Reinterpreta clásicos murcianos con técnica de alta cocina en formato de tapa.",
+    "category": "Tapas",
+    "rating": 4.5,
+    "visitCount": 1540,
+    "isFavorite": false,
+    "createdAt": "2024-10-01T19:30:00Z",
+    "tags": [
+      "Creativa",
+      "Para compartir",
+      "Plaza San Pedro"
+    ],
+    "imageURL": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bar_tapas_in_Murcia_-_6305833764.jpg/960px-Bar_tapas_in_Murcia_-_6305833764.jpg"
+    ],
+    "mainImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bar_tapas_in_Murcia_-_6305833764.jpg/330px-Bar_tapas_in_Murcia_-_6305833764.jpg",
+    "webURL": "https://www.latapeoteca.es/",
+    "latitude": 37.98412,
+    "longitude": -1.13336,
+    "reviews": [
+      {
+        "autor": "Carmen",
+        "date": "2024-10-20T22:00:00Z",
+        "comment": "Tapas originales y bien presentadas. Pedimos varias para compartir.",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": "903CD5FF-703C-439E-B7A5-93F3FD30039E",
+    "title": "Restaurante Hispano",
+    "description": "Abierto en 1926, es el restaurante más antiguo de Murcia. Los hermanos Abellán mantienen una cocina murciana tradicional renovada, con producto de la tierra.",
+    "category": "Restaurante",
+    "rating": 4.7,
+    "visitCount": 1290,
+    "isFavorite": false,
+    "createdAt": "2024-10-08T13:00:00Z",
+    "tags": [
+      "Desde 1926",
+      "Murciana",
+      "Histórico"
+    ],
+    "imageURL": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bar_tapas_in_Murcia_-_6305833578.jpg/960px-Bar_tapas_in_Murcia_-_6305833578.jpg"
+    ],
+    "mainImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bar_tapas_in_Murcia_-_6305833578.jpg/330px-Bar_tapas_in_Murcia_-_6305833578.jpg",
+    "webURL": "https://www.restaurantehispano.es/",
+    "latitude": 37.9851,
+    "longitude": -1.12846,
+    "reviews": [
+      {
+        "autor": "Andrés",
+        "date": "2024-11-03T14:10:00Z",
+        "comment": "Una cocina con historia. El servicio es muy profesional.",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "D6B32E3B-23B8-4D2B-85F3-B28CDCF43FF9",
+    "title": "Keki de Sergio Martínez",
+    "description": "Restaurante y bar de tapas moderno a pocos metros de la Catedral. El chef Sergio Martínez propone cocina creativa mediterránea con influencias asiáticas.",
+    "category": "Restaurante",
+    "rating": 4.6,
+    "visitCount": 980,
+    "isFavorite": false,
+    "createdAt": "2024-10-15T20:45:00Z",
+    "tags": [
+      "Creativa",
+      "Mediterránea",
+      "Catedral"
+    ],
+    "imageURL": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bar_tapas_in_Murcia_-_6305833764.jpg/960px-Bar_tapas_in_Murcia_-_6305833764.jpg"
+    ],
+    "mainImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bar_tapas_in_Murcia_-_6305833764.jpg/330px-Bar_tapas_in_Murcia_-_6305833764.jpg",
+    "webURL": "http://www.keki.es/",
+    "latitude": 37.98462,
+    "longitude": -1.12795,
+    "reviews": [
+      {
+        "autor": "Irene",
+        "date": "2024-11-09T21:30:00Z",
+        "comment": "Sabores sorprendentes y raciones medidas para probar de todo.",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": "71E78262-8BA8-42E2-82A1-D4182FE604A6",
+    "title": "Museo del Vino de Bullas",
+    "description": "Museo instalado en una antigua bodega del siglo XIX de la familia Melgares de Aguilar. Es el punto de partida de la Ruta del Vino de Bullas y tiene enoteca para comprar vinos de la denominación.",
+    "category": "Museo",
+    "rating": 4.3,
+    "visitCount": 640,
+    "isFavorite": false,
+    "createdAt": "2024-10-22T11:30:00Z",
+    "tags": [
+      "Vino",
+      "Bodega",
+      "Ruta del Vino"
+    ],
+    "imageURL": [
+      "https://bullasenruta.es/wp-content/uploads/2022/03/vino_bullas_6-1024x478-1.jpg"
+    ],
+    "mainImageURL": "https://bullasenruta.es/wp-content/uploads/2022/03/vino_bullas_6-1024x478-1.jpg",
+    "webURL": "https://bullasenruta.es/museo-del-vino/conoce-el-museo/",
+    "latitude": 38.05109,
+    "longitude": -1.66459,
+    "reviews": [
+      {
+        "autor": "Rubén",
+        "date": "2024-11-12T12:00:00Z",
+        "comment": "Visita corta pero muy didáctica. La enoteca merece una parada.",
+        "points": 4
+      }
+    ],
+    "dishes": [
+      "Vino de Bullas"
+    ]
+  },
+  {
+    "id": "271EF500-ADEA-42FF-A04A-F455025D9A6B",
+    "title": "Museo Etnológico de la Huerta",
+    "description": "Museo de Alcantarilla dedicado a la cultura de la huerta murciana. Explica cómo el agua, los cultivos y las tradiciones dieron forma a la despensa de la región.",
+    "category": "Museo",
+    "rating": 4.2,
+    "visitCount": 710,
+    "isFavorite": false,
+    "createdAt": "2024-10-30T10:00:00Z",
+    "tags": [
+      "Huerta",
+      "Etnografía",
+      "Alcantarilla"
+    ],
+    "imageURL": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/MUSEO_ETNOL%C3%93GICO_DE_LA_HUERTA.jpg/960px-MUSEO_ETNOL%C3%93GICO_DE_LA_HUERTA.jpg"
+    ],
+    "mainImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/MUSEO_ETNOL%C3%93GICO_DE_LA_HUERTA.jpg/330px-MUSEO_ETNOL%C3%93GICO_DE_LA_HUERTA.jpg",
+    "webURL": "http://www.museodelahuerta.es",
+    "latitude": 37.97689,
+    "longitude": -1.21138,
+    "reviews": [
+      {
+        "autor": "Sofía",
+        "date": "2024-11-21T11:45:00Z",
+        "comment": "Ideal para entender de dónde viene lo que comemos en Murcia.",
+        "points": 4
+      }
+    ],
+    "dishes": [
+      "Productos de la huerta"
+    ]
+  },
+  {
+    "id": "0A890751-BCAE-4F7C-AFC6-DDCD5495D26B",
+    "title": "Pastelería Bonache",
+    "description": "Pastelería de la plaza de las Flores abierta desde 1828. Se presenta como embajadora del pastel de carne murciano y conserva la receta tradicional. Se puede tomar en el local.",
+    "category": "Dulces",
+    "rating": 4.5,
+    "visitCount": 1760,
+    "isFavorite": false,
+    "createdAt": "2024-11-04T09:30:00Z",
+    "tags": [
+      "Pastel de carne",
+      "Desde 1828",
+      "Plaza de las Flores"
+    ],
+    "imageURL": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Murcia_-_Plaza_de_las_Flores_4.jpg/960px-Murcia_-_Plaza_de_las_Flores_4.jpg"
+    ],
+    "mainImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Murcia_-_Plaza_de_las_Flores_4.jpg/330px-Murcia_-_Plaza_de_las_Flores_4.jpg",
+    "latitude": 37.98486,
+    "longitude": -1.13318,
+    "reviews": [
+      {
+        "autor": "Daniel",
+        "date": "2024-11-25T10:15:00Z",
+        "comment": "El pastel de carne recién hecho es de lo mejor que he probado en Murcia.",
+        "points": 5
+      }
+    ],
+    "dishes": [
+      "Pastel de carne"
+    ]
+  },
+  {
+    "id": "EFFBA45B-904D-4E3B-A30E-CC3AEB1B37C6",
+    "title": "Mercado de Santa Florentina",
+    "description": "Mercado gastronómico del casco antiguo de Cartagena. Reúne puestos de producto local y barras donde probar tapas, mariscos y platos del Mar Menor en un edificio rehabilitado.",
+    "category": "Mercado",
+    "rating": 4.4,
+    "visitCount": 1120,
+    "isFavorite": false,
+    "createdAt": "2024-11-10T12:00:00Z",
+    "tags": [
+      "Cartagena",
+      "Mar Menor",
+      "Gastromercado"
+    ],
+    "imageURL": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cartagena_-_Mercado_de_Santa_Florentina_2.jpg/960px-Cartagena_-_Mercado_de_Santa_Florentina_2.jpg"
+    ],
+    "mainImageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cartagena_-_Mercado_de_Santa_Florentina_2.jpg/330px-Cartagena_-_Mercado_de_Santa_Florentina_2.jpg",
+    "webURL": "https://www.mercadosantaflorentina.com/",
+    "latitude": 37.60596,
+    "longitude": -0.98776,
+    "reviews": [
+      {
+        "autor": "Alba",
+        "date": "2024-12-01T13:20:00Z",
+        "comment": "Muy buen ambiente para picar algo de varios puestos.",
+        "points": 4
+      }
+    ],
+    "dishes": [
+      "Tapas",
+      "Mariscos"
+    ]
+  }
+]

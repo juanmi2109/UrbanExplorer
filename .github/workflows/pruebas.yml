@@ -1,0 +1,20 @@
+name: Pruebas
+
+on:
+  push:
+    tags: ['e*', 'fase1', 'final']
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: macos-26
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ejecutar pruebas
+        run: |
+          xcodebuild test \
+            -project UrbanExplorer.xcodeproj \
+            -scheme UrbanExplorer \
+            -destination 'platform=iOS Simulator,name=iPhone 17' \
+            CODE_SIGNING_ALLOWED=NO
